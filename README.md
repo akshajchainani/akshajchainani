@@ -32,7 +32,6 @@ institute: Symbiosis Institute of Technology, Pune
 interests: [Robotics, PLC & SCADA, ROS2, Computer Vision, AI/ML]
 research: 3 Published Research Papers · 1 Patent Contribution
 currently_learning: [ROS2 Humble, Industrial Automation, System Design, Cloud & DevOps]
-fun_fact: "Turning lines of code into moving, thinking machines ⚙️🤖"
 ```
 
 <br/>
@@ -95,20 +94,6 @@ fun_fact: "Turning lines of code into moving, thinking machines ⚙️🤖"
 
 </div>
 
-<br/>
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AkshajChainani&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=AkshajChainani&theme=tokyonight&hide_border=true"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkshajChainani&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<br/>
 
 ## 📈 Activity Graph
 
