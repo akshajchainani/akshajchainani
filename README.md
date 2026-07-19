@@ -31,7 +31,6 @@ education: B.Tech in Robotics & Automation (2022 - 2026)
 institute: Symbiosis Institute of Technology, Pune
 interests: [Robotics, PLC & SCADA, ROS2, Computer Vision, AI/ML]
 research: 3 Published Research Papers · 1 Patent Contribution
-open_to: [India 🇮🇳, UAE - Dubai 🇦🇪, Europe 🇪🇺]
 currently_learning: [ROS2 Humble, Industrial Automation, System Design, Cloud & DevOps]
 fun_fact: "Turning lines of code into moving, thinking machines ⚙️🤖"
 ```
@@ -143,7 +142,7 @@ fun_fact: "Turning lines of code into moving, thinking machines ⚙️🤖"
 
 ### 🤝 Let's Connect & Collaborate!
 
-Open to opportunities in **India**, **UAE**, and **Europe** — always happy to talk robotics, automation, or AI.
+Open to opportunities — always happy to talk robotics, automation, or AI.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:00C2FF&height=120&section=footer"/>
 
