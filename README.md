@@ -101,17 +101,6 @@ currently_learning: [ROS2 Humble, Industrial Automation, System Design, Cloud & 
 <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=AkshajChainani&theme=react-dark&hide_border=true"/>
 </div>
 
-<br/>
-
-## 🐍 Contribution Snake
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
-</div>
-
-> ℹ️ To make the snake animate on your own profile, add the `Platane/snk` GitHub Action to a workflow in your profile repo — see [snk setup guide](https://github.com/Platane/snk).
-
-<br/>
 
 ## 💡 Quote
 
